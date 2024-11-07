@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/erb_fe2/static/css/main.b8cdac19.css",
+    "main.js": "/erb_fe2/static/js/main.bb8a38ec.js",
+    "static/media/about.jpg": "/erb_fe2/static/media/about.112ed641293617670cf0.jpg",
+    "static/media/tour-1.jpeg": "/erb_fe2/static/media/tour-1.7249f01d0247bb61be6c.jpeg",
+    "static/media/tour-3.jpeg": "/erb_fe2/static/media/tour-3.be0128f4564f9fdeff41.jpeg",
+    "static/media/tour-2.jpeg": "/erb_fe2/static/media/tour-2.9b623865a74489b82b8a.jpeg",
+    "static/media/tour-4.jpeg": "/erb_fe2/static/media/tour-4.54a5dbc7421eba8708c8.jpeg",
+    "static/media/logo.svg": "/erb_fe2/static/media/logo.71ef996dfaf2a1d2b42998acc682bd4a.svg",
+    "static/media/main.jpg": "/erb_fe2/static/media/main.26669f30ecfb0c061979.jpg",
+    "index.html": "/erb_fe2/index.html",
+    "main.b8cdac19.css.map": "/erb_fe2/static/css/main.b8cdac19.css.map",
+    "main.bb8a38ec.js.map": "/erb_fe2/static/js/main.bb8a38ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8cdac19.css",
+    "static/js/main.bb8a38ec.js"
+  ]
+}
